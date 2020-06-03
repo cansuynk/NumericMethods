@@ -1,7 +1,22 @@
-# NumericMethods
-BLG 202E Numeric Methods course assignments given in 2019 at ITU
+# ComputerVision
+Computer Vision Studies  
 
-For the description of the projects, please see the pdf files given in the homework folders.
-In addition, a report file has been added to each assignment folder.
+BLG 453E Computer Vision course assignments given in 2020 at ITU  
 
-Some questions were made by using MATLAB.
+For the description of the projects, please see the pdf files given in the folders.  
+In addition, you can find the report files in each folder.  
+
+
+## Topics of First Study
+
+Pointwise Image Processing  
+Image Intensity Transformations, Image Histograms  
+Point Operations Using Look-up Tables  
+The Probability Distribution Function(PDF) of an Image  
+Cumulative Distribution Function(CDF) of an Image  
+Multi-Band Histogram Calculation  
+Histogram equalization  
+Histogram matching  
+Look Up Table for Histogram Matching  
+Image Enhancement  
+
